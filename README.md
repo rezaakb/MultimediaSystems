@@ -1,4 +1,6 @@
-# MultimediaSystems
+# Multimedia Systems
+My homework in Multimedia Systems course
+
 ### HW1: Sampling, Aliasing, Quantization
 
 - **Q1: Sampling**
