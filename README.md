@@ -22,14 +22,14 @@ My homework in Multimedia Systems course
 - **Q2: Image Enhancement**
   - **Q2_1: [Equalization Histogram 1](HW3/Q2_1.m)**
   - **Q2_2: [Equalization Histogram 2](HW3/Q2_2.m)**
-  - **Q2_3: [Comparison Gamma Correction and Equalization Histogram](HW2/Q2_3.m)**
-  - **Q2_4: [Gamma Correction in Different Gamma](HW2/Q2_4.m)**
-  - **Q2_5: [Image Enhancement in Different Color Spaces](HW2/Q2_5.m)**
-- **Q3: [Image Compression (DCT)](HW2/Q3_DCT.m)**
+  - **Q2_3: [Comparison Gamma Correction and Equalization Histogram](HW3/Q2_3.m)**
+  - **Q2_4: [Gamma Correction in Different Gamma](HW3/Q2_4.m)**
+  - **Q2_5: [Image Enhancement in Different Color Spaces](HW3/Q2_5.m)**
+- **Q3: [Image Compression (DCT)](HW3/Q3_DCT.m)**
 
 ### HW4: Video Processing
-- **Q2_1: [Video Compression with Filters](HW3/Q2_1.m)**
-- **Q2_2: [Motion-Compensated Framework](HW3/Q2_2.m)**
-- **Q2_3: [Detect Scence Cut](HW3/Q2_3.m)**
+- **Q2_1: [Video Compression with Filters](HW4/Q2_1.m)**
+- **Q2_2: [Motion-Compensated Framework](HW4/Q2_2.m)**
+- **Q2_3: [Detect Scence Cut](HW4/Q2_3.m)**
 
 
